@@ -40,7 +40,7 @@ Clone and build the project with these commands:
 
 ```sh
 git clone https://github.com/ziadmag90/Foundry-CrossChainRebaseToken.git
-cd Foundry-CrossChainRebaseToken
+cd cross-chain-rebase-token
 forge build
 ```
 
